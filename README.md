@@ -1,4 +1,7 @@
 # azec
+
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
+
 Azure REST API wrapper that makes Azure operation easier
 
 ## Installation
