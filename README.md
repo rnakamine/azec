@@ -7,7 +7,7 @@ $ pip install azec
 ```
 
 ## Usage
-Listing all Azure App Service
+Listing all Azure Web Apps
 ```
 $ azec webapp ls
 ```
