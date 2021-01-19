@@ -1,2 +1,2 @@
 # azec
-Azure CLI wrapper that makes azure operation easier
+Azure CLI wrapper that makes Azure operation easier
