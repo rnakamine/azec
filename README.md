@@ -1,5 +1,5 @@
 # azec
-Azure Rest API wrapper that makes Azure operation easier
+Azure REST API wrapper that makes Azure operation easier
 
 ## Installation
 ```
